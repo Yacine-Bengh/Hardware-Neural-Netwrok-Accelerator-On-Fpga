@@ -1,4 +1,4 @@
-Educational Platform for FPGA Accelerated AI in Robotics
+Hardware Neural Network Accelerator On FPGA
 ============================================================================
 
 Introduction to AI on FPGAs
