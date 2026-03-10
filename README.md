@@ -160,9 +160,3 @@ The [src](/src/) directory contains the source files of this repository divided 
 
 Branches ([4_layer_15x15](https://github.com/nhma20/FPGA_AI/tree/4_layer_15x15), [send_nn_res_uart](https://github.com/nhma20/FPGA_AI/tree/send_nn_res_uart), [sign_mnist](https://github.com/nhma20/FPGA_AI/tree/sign_mnist), [ap_fixed](https://github.com/nhma20/FPGA_AI/tree/ap_fixed), and [benchmark](https://github.com/nhma20/FPGA_AI/tree/benchmark)) contain slightly different (and somewhat experimental) versions of the project, i.e. a deeper neural network with higher input image resolution, a version that sends the inference result back to the host PC over UART, a neural network to detect hand gestures, an optimized HLS implementation using fixed point datatypes, and benchmarks of FPGA and software inference.
 
-Created by Nicolaj Malle, PhD fellow at [University of Southern Denmark](https://www.sdu.dk/en) > [UAS Center](https://www.sdu.dk/en/forskning/sduuascenter) > [DIII](https://www.sdu.dk/en/forskning/sduuascenter/researchareas/diii)
-
-Contact: <nhma@mmmi.sdu.dk>
-
-If you use this work, please cite:
-N. Malle and E. Ebeid, "Open-Source Educational Platform for FPGA Accelerated AI in Robotics," 2022 8th International Conference on Mechatronics and Robotics Engineering (ICMRE), 2022, pp. 112-115, doi: 10.1109/ICMRE54455.2022.9734102.
